@@ -25,4 +25,5 @@ As chemistry students also taking a coding course, we want to have a meaningful 
 
 ## Description 
 
-Write a description of your project here. In your description, include as many vocab words from our class to explain your User Story, the chosen dataset and how your project addressed that users goals. If your project used the Scanner class for user input, explain how the user will interact with your project.
+This project is a chemistry database tool designed to help students easily search for and access key information about chemical elements. Using a dataset that includes details such as the element's name, symbol, atomic number, and atomic mass, the program allows users to input search terms via the Scanner class. Based on the user's input, it retrieves and displays the corresponding information, making it a useful resource for studying the periodic table. The project combines coding principles with chemistry concepts, providing a practical way for students to enhance their learning and better understand the properties of elements.
+
